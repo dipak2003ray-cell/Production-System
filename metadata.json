@@ -1,0 +1,6 @@
+{
+  "name": "BOM & Job Costing Intelligence Platform",
+  "description": "Enterprise-grade multi-level recursive BOM rollup, rate-card traceability, and non-destructive What-If simulations for CCS SPACEMAKER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
